@@ -39,8 +39,7 @@ ENV/
 *.ipynb_checkpoints/
 
 # Project specific
-
-
+_보안/
 
 # Logs
 *.log
@@ -82,4 +81,3 @@ log/
 # Documentation
 *.md
 !README.md
-"[������] (����ī���) 2023�� ��ȭ���� �����ͺм���ȸ/tourism/_����/*.txt"
