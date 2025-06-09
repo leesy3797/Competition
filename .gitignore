@@ -39,7 +39,7 @@ ENV/
 *.ipynb_checkpoints/
 
 # Project specific
-_보안/
+*/*/*/_보안
 
 # Logs
 *.log
