@@ -105,6 +105,6 @@
 
 - 프로젝트 산출물 : commercial_realestate 디렉토리리
 
-- [최종 발표 자료](commercial_realestate\우리4Lee_최종발표자료.pdf)
+- [최종 발표 자료](C:\Users\LeeSeungYong\myproject\competition\[공모전] (최우수상) 2023 빅콘테스트 플랫폼활용분야 지정주제리그(부동산)\BigContest_RealEstate\commercial_realestate\우리4Lee_최종발표자료.pdf)
 
 - [Tableau 대시보드](https://public.tableau.com/app/profile/seungyong.lee/viz/__16955237451750/sheet1)
